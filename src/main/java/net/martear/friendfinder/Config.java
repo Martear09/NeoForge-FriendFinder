@@ -1,4 +1,4 @@
-package net.martear.Moddh;
+package net.martear.friendfinder;
 
 import java.util.List;
 
