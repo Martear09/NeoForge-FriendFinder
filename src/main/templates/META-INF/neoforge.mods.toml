@@ -1,12 +1,7 @@
-# neoforge.mods.toml for the Friend Finder mod
-# TOML format reference: https://github.com/toml-lang/toml
 
 modLoader="javafml"
 loaderVersion="[1,)"
 license="MIT"
-
-# Fill this in if you have a repo issue tracker (recommended before publishing)
-#issueTrackerURL="https://github.com/Martear09/friendfinder/issues" #optional
 
 [[mods]]
 modId="friendfinder"
