@@ -1,6 +1,7 @@
 package net.martear.Moddh;
 
 import net.martear.Moddh.block.ModBlocks;
+import net.martear.Moddh.item.ModCreativeModeTabs;
 import net.martear.Moddh.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.neoforged.fml.common.EventBusSubscriber;
@@ -35,6 +36,8 @@ public class Moddh {
         // Do not add this line if there are no @SubscribeEvent-annotated functions in this class, like onServerStarting() below.
         NeoForge.EVENT_BUS.register(this);
 
+        ModCreativeModeTabs.register(modEventBus);
+
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
         // Register the item to a creative tab
@@ -59,8 +62,8 @@ public class Moddh {
             event.accept(ModBlocks.AQSUS_BLOCK);
             event.accept(ModBlocks.AQSUS_ORE);
         }
-
     }
+
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
     @SubscribeEvent

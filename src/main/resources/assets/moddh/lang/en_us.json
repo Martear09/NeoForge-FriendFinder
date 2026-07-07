@@ -5,6 +5,11 @@
   "item.moddh.mysteryseed": "Mystery Seed",
   "item.moddh.aqsus": "§5Aqsus",
 
+  "creativetab.moddh.aqsus_items": "Aqsis items",
+  "creativetab.moddh.aqsus_blocks": "Aqsis blocks",
+
+
+
   "examplemod.configuration.title": "Example Mod Configs",
   "examplemod.configuration.section.examplemod.common.toml": "Example Mod Configs",
   "examplemod.configuration.section.examplemod.common.toml.title": "Example Mod Configs",

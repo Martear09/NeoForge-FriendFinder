@@ -2,6 +2,7 @@ package net.martear.Moddh.item;
 
 import net.martear.Moddh.Moddh;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.ItemStack;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
