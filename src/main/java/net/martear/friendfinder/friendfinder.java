@@ -7,11 +7,6 @@ import net.neoforged.fml.common.Mod;
 import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent;
 
 
-/**
- * Mod entry point.
- * NeoForge instantiates this class and passes it the mod event bus.
- */
-
 @Mod(friendfinder.MODID)
 public class friendfinder {
 

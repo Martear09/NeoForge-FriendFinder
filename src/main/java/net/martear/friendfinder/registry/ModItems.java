@@ -2,7 +2,6 @@ package net.martear.friendfinder.registry;
 
 import net.martear.friendfinder.friendfinder;
 import net.martear.friendfinder.item.friendfinderitem;
-import net.martear.friendfinder.friendfinder;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.Rarity;

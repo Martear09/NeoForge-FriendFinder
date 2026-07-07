@@ -69,6 +69,7 @@ public class friendfinderitem extends Item {
         }
 
         bindPlayer(stack, targetPlayer);
+        player.setItemInHand(hand, stack);
 
         player.displayClientMessage(
                 Component.literal("Finder bound to " + targetPlayer.getName().getString() + ".")

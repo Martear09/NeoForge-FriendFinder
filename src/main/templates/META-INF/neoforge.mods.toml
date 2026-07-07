@@ -13,8 +13,7 @@ modId="friendfinder" #mandatory
 version="1.0.1" #mandatory
 displayName="Friend Finder" #mandatory
 
-# If you have a homepage/repo, uncomment and fill in:
-#displayURL="https://github.com/Martear09/friendfinder" #optional
+displayURL="https://github.com/Martear9/NeoForge-FriendFinder"
 
 # If you add a logo image to the mod's resources, put its filename here:
 #logoFile="friendfinder.png" #optional
