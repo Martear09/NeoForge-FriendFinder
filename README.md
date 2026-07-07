@@ -1,5 +1,5 @@
 ## Friend Finder
-A tool to help you keep track of your friends (or enemies) on the server.
+Only one item to help you keep track of your friends (or enemies) on the server.
 
 ## Usage:
 
