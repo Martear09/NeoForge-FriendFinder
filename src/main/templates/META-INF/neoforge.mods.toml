@@ -15,8 +15,8 @@ displayName="Friend Finder" #mandatory
 
 displayURL="https://github.com/Martear9/NeoForge-FriendFinder"
 
-# If you add a logo image to the mod's resources, put its filename here:
-#logoFile="friendfinder.png" #optional
+
+logoFile="friendfinderlogo.png"
 
 authors="Martear09"
 
